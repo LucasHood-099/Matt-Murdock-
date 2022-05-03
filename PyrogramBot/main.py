@@ -12,10 +12,10 @@ Nandhu=Client(
 
 
 ALL_PIC = [
- "https://telegra.ph/file/6cff45eb89df1648be888.jpg",
- "https://telegra.ph/file/c283bf783cc9ba943949d.jpg",
- "https://telegra.ph/file/3ac4981982a84f8599030.jpg",
- "https://telegra.ph/file/a8c47c80387d02ed58eaf.jpg"
+ "https://telegra.ph/file/0cc1f6fdae2105c199fd0.jpg",
+ "https://telegra.ph/file/947a16fb2c4e150d5ef7c.jpg",
+ "https://telegra.ph/file/e6ba07f722e4a172a3bc5.jpg",
+ "https://telegra.ph/file/a29fcc91c946e7d6ce34e.jpg"
 ]
 
 
